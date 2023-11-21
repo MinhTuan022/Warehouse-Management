@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="DA_QL_KHO">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/DA_QL_KHO.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
